@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8150138.svg)](https://doi.org/10.5281/zenodo.8150138)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10590204.svg)](https://doi.org/10.5281/zenodo.10590204)
 
 # SPT model
 This repository provides the SPT model.
@@ -20,11 +20,11 @@ The whole-body submodel is available from [`spt_body.xml`](./models/spt_body.xml
 [https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/spt-model/main/models/spt_body.xml](https://sbml4humans.de/model_url?url=https://raw.githubusercontent.com/matthiaskoenig/spt-model/main/models/spt_body.xml) and equations from [`spt_body.md`](./models/spt_body.md).
 
 ## How to cite
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8150138.svg)](https://doi.org/10.5281/zenodo.8150138)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10590204.svg)](https://doi.org/10.5281/zenodo.10590204)
 
 > König, Matthias. (2024). 
 > *SPT model.*   
-> Zenodo. [https://doi.org/10.5281/zenodo.8150138](https://doi.org/10.5281/zenodo.8150138)
+> Zenodo. [https://doi.org/10.5281/zenodo.10590204](https://doi.org/10.5281/zenodo.10590204)
 
 ## License
 
