@@ -201,7 +201,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -220,7 +222,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>

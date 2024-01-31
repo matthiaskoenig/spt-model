@@ -278,7 +278,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -292,7 +294,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -306,7 +310,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -320,7 +326,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>

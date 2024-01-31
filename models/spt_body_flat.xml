@@ -984,22 +984,6 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </compartment>
-      <compartment metaid="LI__meta_Vmem" sboTerm="SBO:0000290" id="LI__Vmem" name="plasma membrane" spatialDimensions="2" size="NaN" units="LI__m2" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#LI__meta_Vmem">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000290"/>
-                  <rdf:li rdf:resource="http://identifiers.org/ncit/C13735"/>
-                  <rdf:li rdf:resource="http://identifiers.org/FMA:63841"/>
-                  <rdf:li rdf:resource="http://identifiers.org/GO:0005886"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </compartment>
       <compartment metaid="GU__meta_Vlumen" sboTerm="SBO:0000290" id="GU__Vlumen" name="intestinal lumen (inner part of intestine)" spatialDimensions="3" size="1.15425" units="litre" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -1084,7 +1068,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1098,7 +1084,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1112,7 +1100,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1126,7 +1116,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1140,7 +1132,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1154,7 +1148,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1168,7 +1164,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1182,7 +1180,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1196,7 +1196,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1210,7 +1212,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1224,7 +1228,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1238,7 +1244,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1252,7 +1260,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1266,7 +1276,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1280,7 +1292,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1294,7 +1308,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1308,7 +1324,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1322,7 +1340,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1336,7 +1356,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1350,7 +1372,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1364,7 +1388,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1378,7 +1404,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1392,7 +1420,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000011"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C51980"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003067"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -1413,7 +1443,12 @@ FOR A PARTICULAR PURPOSE.</p></body>
           </rdf:RDF>
         </annotation>
       </species>
-      <species metaid="LI__meta_protein" sboTerm="SBO:0000245" id="LI__protein" name="protein" compartment="Vli_tissue" initialConcentration="1" substanceUnits="dimensionless" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false" conversionFactor="LI__cf_species_dimensionless">
+      <species metaid="LI__meta_protein" sboTerm="SBO:0000245" id="LI__protein" name="protein (enzyme)" compartment="Vli_tissue" initialConcentration="1" substanceUnits="dimensionless" hasOnlySubstanceUnits="true" boundaryCondition="false" constant="false" conversionFactor="LI__cf_species_dimensionless">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Enzyme that catalyzes the reactions of S -&gt; P + T (e.g. cytochrome P450).</p>
+          </body>
+        </notes>
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#LI__meta_protein">
@@ -1435,7 +1470,9 @@ FOR A PARTICULAR PURPOSE.</p></body>
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000247"/>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000015"/>
                   <rdf:li rdf:resource="http://identifiers.org/ncit/C120264"/>
+                  <rdf:li rdf:resource="http://identifiers.org/bao/0003063"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -2062,15 +2099,10 @@ with FQgu=0.146, FQsp=0.017, FQpa=0.017</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="LI__meta_f_source" sboTerm="SBO:0000002" id="LI__f_source" name="global flag for activating source terms" value="0" units="dimensionless" constant="true">
-        <notes>
-          <body xmlns="http://www.w3.org/1999/xhtml">
-            <p>Set to 1 if source, else 0.</p>
-          </body>
-        </notes>
+      <parameter metaid="LI__meta_f_metabolism" sboTerm="SBO:0000002" id="LI__f_metabolism" name="flag to change rate of metabolism" value="1" units="dimensionless" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#LI__meta_f_source">
+            <rdf:Description rdf:about="#LI__meta_f_metabolism">
               <bqbiol:is>
                 <rdf:Bag>
                   <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
@@ -2080,20 +2112,7 @@ with FQgu=0.146, FQsp=0.017, FQpa=0.017</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="LI__meta_v_S_source" sboTerm="SBO:0000002" id="LI__v_S_source" name="source rate S" value="0" units="LI__mmole_per_min" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#LI__meta_v_S_source">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
-      <parameter metaid="LI__meta_position" sboTerm="SBO:0000002" id="LI__position" name="parameter for zonated position information" value="0.5" units="dimensionless" constant="true">
+      <parameter metaid="LI__meta_position" sboTerm="SBO:0000002" id="LI__position" name="position within the lobulus in [0, 1] (pp, pv)" value="0.5" units="dimensionless" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>position:
@@ -2113,7 +2132,7 @@ with FQgu=0.146, FQsp=0.017, FQpa=0.017</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="LI__meta_zonation_pattern" sboTerm="SBO:0000002" id="LI__zonation_pattern" name="flag to change zonation pattern" value="0" units="dimensionless" constant="true">
+      <parameter metaid="LI__meta_zonation_pattern" sboTerm="SBO:0000002" id="LI__zonation_pattern" name="flag for zonation pattern" value="0" units="dimensionless" constant="true">
         <notes>
           <body xmlns="http://www.w3.org/1999/xhtml">
             <p>pattern:
@@ -2121,7 +2140,8 @@ with FQgu=0.146, FQsp=0.017, FQpa=0.017</p>
 1: linear_increase (increase from periportal 0 to perivenious 1)
 2: sharp_periveneous (high periveneous 1, low otherwise 0)
 3: linear_decrease (decrease from periportal 1 to perivenious 0)
-4: sharp_periportal (high periportal 1, low otherwise 0)</p>
+4: sharp_periportal (high periportal 1, low otherwise 0)
+5: random</p>
           </body>
         </notes>
         <annotation>
@@ -2149,19 +2169,6 @@ with FQgu=0.146, FQsp=0.017, FQpa=0.017</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter metaid="LI__meta_f_metabolism" sboTerm="SBO:0000002" id="LI__f_metabolism" name="global flag to alter metabolism" value="5" units="dimensionless" constant="true">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#LI__meta_f_metabolism">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-      </parameter>
       <parameter metaid="LI__meta_cf_species_dimensionless" sboTerm="SBO:0000002" id="LI__cf_species_dimensionless" name="conversion factor for dimensionless species" value="1" units="LI__per_mmole" constant="true">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -2175,9 +2182,55 @@ with FQgu=0.146, FQsp=0.017, FQpa=0.017</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter id="LI__T_necrosis_threshold" name="T threshold for necrosis to occur [mM]" value="5" units="LI__mM" constant="true"/>
-      <parameter id="LI__necrosis" name="necrosis state [0 (alive), 1 (death)]" value="0" units="dimensionless" constant="false"/>
-      <parameter id="LI__tsim" name="simulation time" value="0" units="LI__min" constant="false"/>
+      <parameter metaid="LI__meta_T_necrosis_threshold" sboTerm="SBO:0000002" id="LI__T_necrosis_threshold" name="T threshold for necrosis [mM]" value="5" units="LI__mM" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#LI__meta_T_necrosis_threshold">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </parameter>
+      <parameter metaid="LI__meta_necrosis" sboTerm="SBO:0000002" id="LI__necrosis" name="necrosis state [0 (alive), 1 (death)]" value="0" units="dimensionless" constant="false">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>Damage status of the cell. Either alive or necrotic (dead).</p>
+          </body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#LI__meta_necrosis">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </parameter>
+      <parameter metaid="LI__meta_tsim" sboTerm="SBO:0000002" id="LI__tsim" name="simulation time" value="0" units="LI__min" constant="false">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>debug parameter to track time in model coupling</p>
+          </body>
+        </notes>
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#LI__meta_tsim">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000002"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </parameter>
       <parameter metaid="LI__meta_SIM_Vmax" sboTerm="SBO:0000186" id="LI__SIM_Vmax" name="Vmax S import" value="NaN" units="LI__mmole_per_min_l" constant="false">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
@@ -2256,8 +2309,32 @@ with FQgu=0.146, FQsp=0.017, FQpa=0.017</p>
           </rdf:RDF>
         </annotation>
       </parameter>
-      <parameter id="LI__TDETOX_Vmax" name="Vmax T detoxification" value="0.005" units="LI__mmole_per_min_l" constant="true"/>
-      <parameter id="LI__TDETOX_Km_napqi" name="Km T detoxifictation" value="0.5" units="LI__mM" constant="true"/>
+      <parameter metaid="LI__meta_TDETOX_Vmax" sboTerm="SBO:0000186" id="LI__TDETOX_Vmax" name="Vmax T detoxification" value="0.005" units="LI__mmole_per_min_l" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#LI__meta_TDETOX_Vmax">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000186"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </parameter>
+      <parameter metaid="LI__meta_TDETOX_Km_napqi" sboTerm="SBO:0000027" id="LI__TDETOX_Km_napqi" name="Km T detoxification" value="0.5" units="LI__mM" constant="true">
+        <annotation>
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
+            <rdf:Description rdf:about="#LI__meta_TDETOX_Km_napqi">
+              <bqbiol:is>
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000027"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </annotation>
+      </parameter>
       <parameter id="LI__f_reaction" name="factor for metabolism" value="NaN" units="dimensionless" constant="false"/>
       <parameter metaid="GU__meta_F_S_abs" sboTerm="SBO:0000002" id="GU__F_S_abs" name="fraction absorbed S" value="1" units="dimensionless" constant="true">
         <notes>
@@ -2340,7 +2417,7 @@ is absorbed. This parameter determines how much of is excreted.</p>
       <parameter id="GU__absorption" name="absorption S" value="NaN" units="GU__mmole_per_min" constant="false"/>
     </listOfParameters>
     <listOfInitialAssignments>
-      <initialAssignment symbol="LI__protein_random">
+      <initialAssignment name="random initial protein value" symbol="LI__protein_random">
         <math xmlns="http://www.w3.org/1998/Math/MathML">
           <apply>
             <csymbol encoding="text" definitionURL="http://www.sbml.org/sbml/symbols/distrib/uniform"> uniform </csymbol>
@@ -3691,13 +3768,33 @@ Patterns are scaled via the scaling factors.</p>
                 <cn sbml:units="dimensionless" type="e-notation"> 1 <sep/> -6 </cn>
               </apply>
             </piece>
+            <piece>
+              <ci> LI__protein_random </ci>
+              <apply>
+                <lt/>
+                <apply>
+                  <abs/>
+                  <apply>
+                    <minus/>
+                    <ci> LI__zonation_pattern </ci>
+                    <cn sbml:units="dimensionless" type="integer"> 4 </cn>
+                  </apply>
+                </apply>
+                <cn sbml:units="dimensionless" type="e-notation"> 1 <sep/> -6 </cn>
+              </apply>
+            </piece>
             <otherwise>
               <ci> LI__protein_random </ci>
             </otherwise>
           </piecewise>
         </math>
       </assignmentRule>
-      <rateRule variable="LI__tsim">
+      <rateRule name="tsim rate rule" variable="LI__tsim">
+        <notes>
+          <body xmlns="http://www.w3.org/1999/xhtml">
+            <p>debug rule to track time in model coupling</p>
+          </body>
+        </notes>
         <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
           <cn sbml:units="dimensionless"> 1 </cn>
         </math>
@@ -4765,37 +4862,7 @@ Patterns are scaled via the scaling factors.</p>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="LI__meta_SSOURCE" sboTerm="SBO:0000655" id="LI__SSOURCE" name="substrate source (SSOURCE)" reversible="false" compartment="Vli_plasma">
-        <annotation>
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
-            <rdf:Description rdf:about="#LI__meta_SSOURCE">
-              <bqbiol:is>
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/SBO:0000655"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </annotation>
-        <listOfProducts>
-          <speciesReference species="Cli_plasma_S" stoichiometry="1" constant="true"/>
-        </listOfProducts>
-        <kineticLaw>
-          <math xmlns="http://www.w3.org/1998/Math/MathML" xmlns:sbml="http://www.sbml.org/sbml/level3/version2/core">
-            <apply>
-              <times/>
-              <ci> LI__f_source </ci>
-              <apply>
-                <minus/>
-                <cn sbml:units="dimensionless" type="integer"> 1 </cn>
-                <ci> f_porous_media </ci>
-              </apply>
-              <ci> LI__v_S_source </ci>
-            </apply>
-          </math>
-        </kineticLaw>
-      </reaction>
-      <reaction metaid="LI__meta_SIM" sboTerm="SBO:0000655" id="LI__SIM" name="substrate import (SIM)" reversible="true" compartment="LI__Vmem">
+      <reaction metaid="LI__meta_SIM" sboTerm="SBO:0000655" id="LI__SIM" name="substrate import (SIM)" reversible="true" compartment="Vli_tissue">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#LI__meta_SIM">
@@ -4853,7 +4920,7 @@ Patterns are scaled via the scaling factors.</p>
           </math>
         </kineticLaw>
       </reaction>
-      <reaction metaid="LI__meta_PEX" sboTerm="SBO:0000655" id="LI__PEX" name="product export (PEX)" reversible="true" compartment="LI__Vmem">
+      <reaction metaid="LI__meta_PEX" sboTerm="SBO:0000655" id="LI__PEX" name="product export (PEX)" reversible="true" compartment="Vli_tissue">
         <annotation>
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#" xmlns:vCard4="http://www.w3.org/2006/vcard/ns#" xmlns:bqbiol="http://biomodels.net/biology-qualifiers/" xmlns:bqmodel="http://biomodels.net/model-qualifiers/">
             <rdf:Description rdf:about="#LI__meta_PEX">
