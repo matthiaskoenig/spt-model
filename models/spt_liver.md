@@ -15,7 +15,7 @@ PEX_Km_P = 0.5  # [mmol/l]
 S2PT_Km_S = 0.5  # [mmol/l] 
 S2PT_Vmax = 0.05  # [mmol/min/l] 
 SIM_Km_S = 0.5  # [mmol/l] 
-TDETOX_Km_napqi = 0.5  # [mmol/l] 
+TDETOX_Km_T = 0.5  # [mmol/l] 
 TDETOX_Vmax = 0.005  # [mmol/min/l] 
 T_necrosis_threshold = 5.0  # [mmol/l] 
 Vext = 1.5  # [l] 
@@ -50,7 +50,7 @@ protein = piecewise(1 * 0.5, abs(zonation_pattern - 0) < 1e-6, 1.1406136 * posit
 PEX = (f_reaction * Vli * PEX_Vmax / PEX_Km_P) * (P - P_ext) / (1 + P_ext / PEX_Km_P + P / PEX_Km_P)  # [mmol/min]
 S2PT = f_reaction * (1 - necrosis) * Vli * protein * S2PT_Vmax * (S / (S + S2PT_Km_S))  # [mmol/min]
 SIM = (f_reaction * Vli * SIM_Vmax / SIM_Km_S) * (S_ext - S) / (1 + S_ext / SIM_Km_S + S / SIM_Km_S)  # [mmol/min]
-TDETOX = f_reaction * (1 - necrosis) * Vli * TDETOX_Vmax * (T / (T + TDETOX_Km_napqi))  # [mmol/min]
+TDETOX = f_reaction * (1 - necrosis) * Vli * TDETOX_Vmax * (T / (T + TDETOX_Km_T))  # [mmol/min]
 
 # odes
 d P/dt = -PEX / Vli + S2PT / Vli  # [mmol/l/min]
